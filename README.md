@@ -5,10 +5,9 @@ Projeto desenvolvido para a avalicao da Ekan que consiste na criacao de  uma apl
 ## Aprendizados
 
 Gostaria de expressar meus sinceros agradecimentos pela valiosa oportunidade concedida para participar deste projeto de avaliação. Foi uma experiência enriquecedora que contribuiu significativamente para o meu desenvolvimento profissional.
-Durante este período de avaliação, pude imergir em desafios estimulantes que ampliaram minha compreensão e habilidades em diversas áreas. Cada obstáculo foi uma oportunidade de aprendizado, e estou grato pela chance de enfrentar esses desafios.
-A colaboração neste projeto proporcionou um ambiente propício para o crescimento, e os conhecimentos adquiridos certamente terão um impacto positivo em minha trajetória profissional. Agradeço pela confiança depositada em mim e por permitir que eu participasse ativamente dessa experiência única.
+Durante este período de avaliação, pude imergir em um desafio que ampliou minha compreensão e habilidades em diversas áreas. Cada obstáculo foi uma oportunidade de aprendizado, e estou grato pela chance de enfrentar esse desafio.
+A colaboração neste projeto proporcionou um ambiente propício para o meu crescimento, e os conhecimentos adquiridos certamente terão um impacto positivo em minha trajetória profissional. Agradeço pela confiança depositada em mim e por permitir que eu participasse ativamente dessa experiência única.
 Estou ansioso para continuar contribuindo e aplicando as lições aprendidas nesta jornada.
-Mais uma vez, obrigado por esta oportunidade incrível.
 Atenciosamente, [Amir Adnan Dahbur]
 
 
