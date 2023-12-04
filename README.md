@@ -13,11 +13,11 @@ Atenciosamente, Amir Adnan Dahbur
 
 ## Funcionalidades
 
-- Cadastro de beneficiario e Documento
-- Listagem de todos os beneficiarios
-- Listagem de todos os documentos relacionados ao beneficiario
-- Atualizacao no perfil do beneficiario
-- Remocao do perfil do beneficiario
+- Cadastro de beneficiario e Documento ❌ 
+- Listagem de todos os beneficiarios ✅
+- Listagem de todos os documentos relacionados ao beneficiario ✅
+- Atualizacao no perfil do beneficiario ✅
+- Remocao do perfil do beneficiario ✅
 
 
 ## Uso/Exemplos
