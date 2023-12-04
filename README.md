@@ -48,6 +48,21 @@ Atenciosamente, Amir Adnan Dahbur
 
 **Java, Spring Boot , H2 e Swagger**
 
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Fazendo o update das dependecias do maven
+```bash
+ mvn clean install
+```
+
+Rodar a main na IDE de sua preferencia
+
 
 ## Autor
 
